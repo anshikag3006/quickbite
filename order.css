@@ -28,7 +28,7 @@
 .container .box-container .box{
   box-shadow: 0 5px 10px rgba(0,0,0,2);
   border-radius: 5px;
-  background-color: #fff;
+  background-color: #ded5d5;
   text-align: center;
   padding: 28px 20px;
 }
