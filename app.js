@@ -18,37 +18,37 @@ let products = [
         id: 1,
         name: 'Thali',
         image: "thali.jpg",
-        price: '120.00'
+        price: 120.00
     },
     {
         id: 2,
         name: 'Dal and Rice',
         image: '2.PNG',
-        price: '100.00'
+        price: 100.00
     },
     {
         id: 3,
         name: 'Rajma Chawal',
         image: '3.PNG',
-        price: '159.00'
+        price: 159.00
     },
     {
         id: 4,
         name: 'Dal Makhani with Naan',
         image: '4.PNG',
-        price: '250.00'
+        price: 250.00
     },
     {
         id: 5,
         name: 'Aloo Prantha',
         image: '5.PNG',
-        price: '99.00'
+        price: 99.00
     },
     {
         id: 6,
         name: 'Palak Paneer',
         image: '6.PNG',
-        price: '159.00'
+        price: 159.00
     }
 ];
 let listCards  = [];
