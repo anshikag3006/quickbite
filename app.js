@@ -23,31 +23,31 @@ let products = [
     {
         id: 2,
         name: 'Dal and Rice',
-        image: '2.PNG',
+        image: 'dal.jpg',
         price: 100.00
     },
     {
         id: 3,
         name: 'Rajma Chawal',
-        image: '3.PNG',
+        image: 'rajma.jpg',
         price: 159.00
     },
     {
         id: 4,
         name: 'Dal Makhani with Naan',
-        image: '4.PNG',
+        image: 'dalmakhni.jpg',
         price: 250.00
     },
     {
         id: 5,
         name: 'Aloo Prantha',
-        image: '5.PNG',
+        image: 'aloo.jpg',
         price: 99.00
     },
     {
         id: 6,
         name: 'Palak Paneer',
-        image: '6.PNG',
+        image: 'palak.jpg',
         price: 159.00
     }
 ];
